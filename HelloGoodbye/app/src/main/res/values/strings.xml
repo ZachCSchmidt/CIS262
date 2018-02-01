@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hello Goodbye</string>
+
+    <!-- Name for button !-->
+    <string name="excl_button">Exclamation</string>
+
+    <string name="Hello">Hello</string>
+    <string name="Goodbye">Goodbye</string>
+
+    <string name="excl_img">Exclamation Image</string>
+</resources>
